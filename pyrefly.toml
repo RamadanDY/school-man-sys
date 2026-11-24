@@ -1,0 +1,8 @@
+
+search-path = ["my_tennis_club"]
+python-interpreter-path = "myworld/bin/python"
+project-excludes = ["myworld/**"]
+
+[errors]
+bad-override = false
+untyped-import = false

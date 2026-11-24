@@ -1,0 +1,6 @@
+{
+  "python.defaultInterpreterPath": "${workspaceFolder}/myworld/bin/python",
+  "python.analysis.extraPaths": [
+    "${workspaceFolder}/my_tennis_club"
+  ]
+}
